@@ -752,3 +752,25 @@ html {
     background: var(--primary-color);
     color: white;
 }
+
+.skills-text {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.skills-text span {
+    padding: 6px 14px;
+    border-radius: 20px;
+    background-color: rgba(182, 141, 64, 0.15);
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+
+
+
+
